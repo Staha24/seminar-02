@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\Seminar02\task\tom\bin\Debug\net6.0\tom.exe
+C:\Users\HOME\Desktop\Seminar02\task\tom\bin\Debug\net6.0\tom.deps.json
+C:\Users\HOME\Desktop\Seminar02\task\tom\bin\Debug\net6.0\tom.runtimeconfig.json
+C:\Users\HOME\Desktop\Seminar02\task\tom\bin\Debug\net6.0\tom.dll
+C:\Users\HOME\Desktop\Seminar02\task\tom\bin\Debug\net6.0\tom.pdb
+C:\Users\HOME\Desktop\Seminar02\task\tom\obj\Debug\net6.0\tom.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Seminar02\task\tom\obj\Debug\net6.0\tom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Seminar02\task\tom\obj\Debug\net6.0\tom.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Seminar02\task\tom\obj\Debug\net6.0\tom.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Seminar02\task\tom\obj\Debug\net6.0\tom.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Seminar02\task\tom\obj\Debug\net6.0\tom.dll
+C:\Users\HOME\Desktop\Seminar02\task\tom\obj\Debug\net6.0\refint\tom.dll
+C:\Users\HOME\Desktop\Seminar02\task\tom\obj\Debug\net6.0\tom.pdb
+C:\Users\HOME\Desktop\Seminar02\task\tom\obj\Debug\net6.0\tom.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Seminar02\task\tom\obj\Debug\net6.0\ref\tom.dll
